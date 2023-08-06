@@ -1,0 +1,29 @@
+[33mcommit 346202c0b372bf07036f9ca71e77672260ca107d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bruna <bruna.erbes@outlook.com>
+Date:   Sun Jul 30 22:27:34 2023 -0300
+
+    colocamdo acentuação no arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 89e0c7c18c1718e40fb0413cea5d8058768b5eea[m
+Author: Bruna <bruna.erbes@outlook.com>
+Date:   Sun Jul 30 22:23:45 2023 -0300
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m28[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 0120d22d98b51787530e3d9deea9f8989bb9398d[m
+Author: Bruna <bruna.erbes@outlook.com>
+Date:   Sun Jul 30 22:15:47 2023 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m28[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
